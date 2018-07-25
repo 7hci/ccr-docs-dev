@@ -5,18 +5,15 @@
 
 **1.   NOTICE AND CONSENT.** By using Cicuro's services, you agree to the terms and conditions of this Agreement, the Cicuro Privacy Policy, and any other documents incorporated by reference. You further agree that this Agreement forms a legally binding contract between you and Cicuro, and that this Agreement constitutes a writing signed by you under any applicable law or regulation. Any rights not expressly granted herein are reserved by Cicuro. We may amend this Agreement at any time. You agree to be bound by the modified terms and conditions of this Agreement upon your use of Cicuro’s services after the effective date of such changes. We last modified this Agreement on May 29, 2018. In this Agreement, "You," "User," or "Customer" means any person or entity using the Cicuro Service (as defined below).
 
-
 **2.   THE CICURO SERVICE.** A User may send money (the "Payment"), to purchase the Cicuro Service ("Service") for an offender at a Cicuro-affiliated correctional institution, detention center, or like facility (a "Client"). If you are unsure of which offender's account to send a payment or which Cicuro Services are available to you, please contact Cicuro or the Client. Cicuro will not be liable for a Payment sent to the incorrect offender account. Cicuro or a Client has the authority to review, withhold or reject a Payment. You may make Payments through the following channels: (1) over the Internet or telephone using a Visa, MasterCard or Discover branded credit card or debit card (collectively "Bank Card"), (2) at a partner location using cash (i.e., MoneyGram), (3) at a Cicuro kiosk located at a Client using cash or a Bank Card, or (4) by sending a money order to Cicuro’s lockbox (collectively, the "Cicuro Service"). Not all channels may be accepted at a specific Client location. Please refer to the "FUNDS AVAILABILITY" section below for details regarding when the Payment will be available in the offender's account.
 
 **3.   PAYMENT INFORMATION.** To facilitate Payments, you will be required to provide Cicuro with certain information to allow us, among other things: to verify your identity; to receive appropriate Bank Card authorization, if applicable; and to gather any other information a Client requires of you to send the Payment. Please refer to Cicuro's Privacy Policy regarding Cicuro's use of this information. When required by applicable law, Payments will be reported to federal, state or local authorities.
 
 **4.   IDENTITY AUTHENTICATION.** You authorize Cicuro, directly or through third parties, to make any inquiries we consider necessary to validate your identity. This may include asking you for further information, requiring you to provide your date of birth, and/or other information that will allow us to reasonably identify you. We may also require you to take steps to confirm ownership of your email address, or verifying your Information against third party databases or through other sources. We may also ask to see your driver's license or other identifying documents. Cicuro reserves the right to close, suspend, or limit access to your account and/or the Cicuro Service in the event we are unable to obtain or verify this Information.
 
-**5.   FEES.** Other than for sending money orders, which is a free Payment option, you agree to pay Cicuro a fee for using the Cicuro Service, at the rate in effect at the time you make a Payment (the "Service Fee"). All Service Fees are non-refundable. Service Fees may vary by state and facility in which the offender resides and are available in the "Availability and Pricing" section of our website at Cicuro.com/????. Cicuro is not responsible for any deductions made by the facility (for reasons such as restitution, child support, etc.) prior to the crediting of your Payment to the offender’s account.
-
+**5.   FEES.** Other than for sending money orders, which is a free Payment option, you agree to pay Cicuro a fee for using the Cicuro Service, at the rate in effect at the time you make a Payment (the "Service Fee"). All Service Fees are non-refundable. Service Fees may vary by state and facility in which the offender resides and are available in the "Shop" section of our website at www.cicuro.com/shop. Cicuro is not responsible for any deductions made by the facility (for reasons such as restitution, child support, etc.) prior to the crediting of your Payment to the offender’s account.
 
 **6.   FUNDS AVAILIBILITY.** Cicuro generally transmits Payments within one (1) to two (2) business days, with the exception of lockbox money order Payments, which are generally processed within ten (10) business days of receipt of the money order by Cicuro. While Cicuro will process Payments within these time frames, the facility may take additional time in posting those Payments to the offender’s account, and Cicuro has no control over, and is not responsible for any delay caused by, the facility’s processes and procedures.
-
 
 **7.   MONEY ORDERS.** Where the lockbox money order Payment method is available to you, Cicuro will only accept money orders valued at $1,000.00 or less, depending on the Client. Any money order over $1,000.00 will be returned to you. Cicuro processes all money order payments at no cost to you.
 
@@ -24,7 +21,7 @@ All money orders must be made payable to "Cicuro Inc." A deposit slip and any ac
 
 Cicuro is not responsible for money orders lost in the mail or otherwise lost in transit, or for money orders that are sent to the provided address which did not reach the intended recipient. If Cicuro receives a money order and there is a problem with the deposit, Cicuro will mail the money order and deposit slip back to the Customer’s address provided on the deposit slip.
 
-**8.   CICURO SERVICE. **Depending on the Client, the Cicuro Service may be used by the offender to send SMS text messages or view certain media-related products (such as music, e-books, news and videos, if such products are available at the offender’s facility). The Cicuro Service is non-transferrable and unused portions of the Cicuro Service will not be refunded.
+**8.   CICURO SERVICE.** Depending on the Client, the Cicuro Service may be used by the offender to send SMS text messages or view certain media-related products (such as music, e-books, news and videos, if such products are available at the offender’s facility). The Cicuro Service is non-transferrable and unused portions of the Cicuro Service will not be refunded.
 
 **9.   PAYMENT.** You are required to pay the Service Fees (along with the principal Payment amount) before Cicuro processes the Payment. By making a Payment with a Bank Card, you authorize Cicuro to process the Payment. When using a Bank Card, if Cicuro does not receive authorization from the card issuer, the Payment will not be processed and a hold may be placed on your Bank Card which can only be removed by the issuing bank. Each time you use the Cicuro Service, you agree that Cicuro is authorized to charge your designated Bank Card account for the principal Payment amount, the Service Fee and any other applicable fees. In the event that your transaction is reported as unauthorized and results in a chargeback, your account, as well as that of the offender who received the unauthorized funds, will be blocked from future Bank Card transactions until Cicuro is reimbursed or the issue is otherwise resolved.
 
@@ -39,21 +36,19 @@ Cicuro is not responsible for money orders lost in the mail or otherwise lost in
 
 **14. GOVERNING LAW.** This Agreement and the rights of the parties hereunder shall be governed by and construed in accordance with the laws of the Commonwealth of Virginia, exclusive of conflict or choice of law rules.
 
-
 **15. DISPUTE RESOLUTION.**
 
 **THIS AGREEMENT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR CLASS ACTIONS.**
 
 About Arbitration:
 
-In the event Cicuro is unable to resolve a complaint you may have to your satisfaction (or if Cicuro has not been able to resolve a dispute it has with you after attempting to do so), we each agree to resolve those disputes through binding arbitration instead of in court. Arbitration is more informal than a lawsuit in court. Arbitration uses neutral arbitrators instead of a judge or jury, allows for more limited discovery than in court, and is subject to very limited review by courts.** Any arbitration under this Agreement will take place on an individual basis; class arbitrations and in court class actions are not permitted.**
+In the event Cicuro is unable to resolve a complaint you may have to your satisfaction (or if Cicuro has not been able to resolve a dispute it has with you after attempting to do so), we each agree to resolve those disputes through binding arbitration instead of in court. Arbitration is more informal than a lawsuit in court. Arbitration uses neutral arbitrators instead of a judge or jury, allows for more limited discovery than in court, and is subject to very limited review by courts. **Any arbitration under this Agreement will take place on an individual basis; class arbitrations and in court class actions are not permitted.**
 
 Arbitration Agreement:
 
 (a) Any dispute, claim or controversy among the parties arising out of or relating to this Agreement ("Dispute") shall be finally resolved by and through binding arbitration administered by Mediation Center of Charlottesville (MCC) pursuant to its rules and procedures, provided that failure to adhere to any of the time limits set forth therein shall not be a basis for challenging the award.
 
 You may obtain copies of the current rules and forms and instructions for initiating arbitration by contacting MCC as follows:
-
 
 MCC
 Box 133
@@ -65,7 +60,6 @@ Telephone (434) 977-2926
 **You agree that, by entering into this Agreement, you and Cicuro are each waiving the right to a trial by jury or to participate in a class action or class arbitration.** Both the foregoing agreement of the parties to arbitrate any and all Disputes, and the results, determinations, findings, judgments and/or awards rendered through any such arbitration, shall be final and binding on the parties and may be specifically enforced by legal proceedings in any court of competent jurisdiction.
 
 (b) The arbitration shall be conducted by three (3) arbitrators (unless the parties mutually agree to less). Each party shall select one arbitrator within thirty (30) days of commencement of the arbitration, failing which, upon request of any party, MCC shall appoint such arbitrator. The third arbitrator, who shall serve as Chairperson of the arbitral panel, shall be appointed by MCC. The arbitrators must apply the terms of this arbitration agreement, including without limitation, the waiver of class-wide arbitration set forth below.
-
 
 (c) To the extent permitted by law, the place of arbitration shall be Charlottesville, Virginia.
 
