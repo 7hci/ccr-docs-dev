@@ -24,13 +24,16 @@ Please note that the Service should not be used by attorneys to communicate with
 
 **7.      LIABILITY.** Under some circumstances, a Client may refuse to distribute a SMS text message to an offender. In such cases, neither Cicuro nor the Client will be responsible to you. If a SMS text message is sent to an offender who has been released, transferred, deported, paroled or discharged, the SMS text message may not be distributed to the offender. In such cases, neither Cicuro nor the Client will be responsible to you.  
 
-**8.      TERMINATION.** You may terminate your use of the Service with or without cause at any time by providing written notice to Cicuro at the following address: 4920 Old Boonsboro Road, Lynchburg, VA 24503 or via email at [support@cicuro.com](mailto:support@cicuro.com).
+**8.      TERMINATION.** You may terminate your use of the Service with or without cause at any time by providing written notice to Cicuro at the following address:
+  
+P.O. Box 682  
+Lynchburg, VA 24504  
+  
+or via email at [support@cicuro.com](mailto:support@cicuro.com).
 
 Cicuro may at any time, without prior notice, terminate the Service and or your account, upon the request of a Client. In the event of termination, your account will be disabled and you may not be granted access to your account or other content contained in your account. Cicuro will notify you of any such termination, which shall be effective immediately upon Cicuro's delivery of such notice. If you have any messages remaining in your account, you will not be entitled to a refund. Sections 3, 4, 5, 9 and 10 of these Terms of Service shall survive such termination.
 
 **9.      GOVERNING LAW.** This Agreement and the rights of the parties hereunder shall be governed by and construed in accordance with the laws of the Commonwealth of Virginia, exclusive of conflict or choice of law rules.
-
-
 
 **10.      DISPUTE RESOLUTION.**
 
