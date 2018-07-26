@@ -41,7 +41,7 @@ Cicuro may at any time, without prior notice, terminate the Service and or your 
 
 About Arbitration:
 
-In the event Cicuro is unable to resolve a complaint you may have to your satisfaction (or if Cicuro has not been able to resolve a dispute it has with you after attempting to do so), we each agree to resolve those disputes through binding arbitration instead of in court. Arbitration is more informal than a lawsuit in court. Arbitration uses neutral arbitrators instead of a judge or jury, allows for more limited discovery than in court, and is subject to very limited review by courts.** Any arbitration under this Agreement will take place on an individual basis; class arbitrations and in court class actions are not permitted.**
+In the event Cicuro is unable to resolve a complaint you may have to your satisfaction (or if Cicuro has not been able to resolve a dispute it has with you after attempting to do so), we each agree to resolve those disputes through binding arbitration instead of in court. Arbitration is more informal than a lawsuit in court. Arbitration uses neutral arbitrators instead of a judge or jury, allows for more limited discovery than in court, and is subject to very limited review by courts. **Any arbitration under this Agreement will take place on an individual basis; class arbitrations and in court class actions are not permitted.**
 
 Arbitration Agreement:
 
