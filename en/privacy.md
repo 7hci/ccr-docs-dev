@@ -1,6 +1,10 @@
 Privacy Policy
 
-*Updated May 29, 2018*Cicuro is committed to safeguarding your privacy and your personal information. This Privacy Policy explains how we collect, use, store, share and protect your personal information.By using Cicuro and any of its related sites, applications, services, products and tools, and/or registering for a Cicuro account, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy and in any of our Terms of Service to which you agree.
+*Updated May 29, 2018*
+
+Cicuro is committed to safeguarding your privacy and your personal information. This Privacy Policy explains how we collect, use, store, share and protect your personal information.
+
+By using Cicuro and any of its related sites, applications, services, products and tools, and/or registering for a Cicuro account, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy and in any of our Terms of Service to which you agree.
 
 **What Information Does Cicuro Collect?**
 
@@ -64,7 +68,8 @@ The types of information we collect depend on whether you’ve registered for an
 
 * You can opt out of receiving marketing communications from us at any time by contacting Customer Service at [support@Cicuro.com](mailto:support@jpay.com).
 
-**Mobile Privacy**
+
+**Mobile Privacy**
 
 * We may offer you the ability to connect with our sites, or use our applications, services, and tools using a mobile device, either through a mobile application or via a mobile optimized or non-optimized website. The provisions of this Privacy Policy apply to all such mobile access and use of mobile devices. This Privacy Policy will be referenced by all such mobile applications or mobile optimized websites.
 
@@ -93,6 +98,10 @@ The types of information we collect depend on whether you’ve registered for an
 * If you no longer wish to use our services, email our Customer Service at [support@Cicuro.com.](mailto:support@jpay.com)
 
 * If you have questions about this Privacy Policy, Cicuro’s information practices, Terms of Service, or your dealings with Cicuro, write us at:
-
-Cicuro Inc. Attn: Legal Department 4920 Old Boonsboro RdLynchburg, VA 24503
-
+  
+Cicuro Inc.  
+Attn: Legal Department  
+P.O. Box 682  
+Lynchburg, VA 24504  
+  
+  
