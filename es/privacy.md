@@ -91,9 +91,9 @@ Si ya no desea recibir nuestras comunicaciones de marketing, envíe un correo el
 Si ya no desea utilizar nuestros servicios, envíe un correo electrónico a nuestro Servicio al Cliente al   [support@cicuro.com](mailto:support@cicuro.com).
 
 Si tiene preguntas sobre esta Política de privacidad, las prácticas de información de Cicuro , los Términos del servicio o sus relaciones con Cicuro , escríbanos a:
-
-Cicuro Inc. 
+  
+Cicuro Inc.  
 A la atención de: Departamento Legal  
-4920 Old Boonsboro Rd
-Lynchburg, VA 24503
-
+4920 Old Boonsboro Rd  
+Lynchburg, VA 24503  
+  
