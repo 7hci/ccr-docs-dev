@@ -1,98 +1,99 @@
-Privacy Policy
+Política de privacidad
 
-*Updated May 29, 2018*Cicuro is committed to safeguarding your privacy and your personal information. This Privacy Policy explains how we collect, use, store, share and protect your personal information.By using Cicuro and any of its related sites, applications, services, products and tools, and/or registering for a Cicuro account, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy and in any of our Terms of Service to which you agree.
+*Actualizado 29 de mayo de 2018*
 
-**What Information Does Cicuro Collect?**
+Cicuro se compromete a proteger su privacidad y su información personal. Esta Política de privacidad explica cómo recopilamos, usamos, almacenamos, compartimos y protegemos su información personal. 
 
-The types of information we collect depend on whether you’ve registered for an account, which Cicuro product or service you’ve used, and how we came to acquire your information. This information can include: 
+Al utilizar Cicuro y cualquiera de sus sitios relacionados, aplicaciones, servicios, productos y herramientas, y / o registrarse para una cuenta de Cicuro , usted acepta expresamente que recopilemos , usemos, divulguemos y retengamos su información personal como se describe en esta Política de privacidad. y en cualquiera de nuestros Términos de Servicio a los que usted acceda.  
 
-* Contact information such as name, address, telephone number or email address.
+**¿Qué información recopila Cicuro?**
 
-* Credit/Debit card information or any card information used for transactional purposes.
+Los tipos de información que recopilamos dependen de si se ha registrado para una cuenta, qué producto o servicio de Cicuro ha utilizado y cómo adquirimos su información. Esta información puede incluir:
 
-* Date of birth.
+* Información de contacto como nombre, dirección, número de teléfono o dirección de correo electrónico.
 
-* Transaction information such as amount sent for money transfer, type of service (i.e. email, video visitation, etc.), offender name, offender ID and facility.
+* Información de tarjeta de crédito / débito o cualquier información de tarjeta utilizada con fines transaccionales.
 
-* Correspondence with customer support such as email, regular mail and conversations over the phone.
+* Información de la transacción tales como cantidad enviada para la transferencia de dinero, tipo de servicio (por ejemplo, correo electrónico, visitas de vídeo, etc.), el nombre de residente, residente ID y las instalaciones.
 
-* We may collect and analyze the Internet Protocol (IP) address used to connect your computer or any internet-accessible device to the internet as well as login and password information.
+* Correspondencia con soporte al cliente como correo electrónico, correo regular y conversaciones por teléfono.
 
+* Podemos recopilar y analizar la dirección de Protocolo de Internet (IP) utilizada para conectar su computadora o cualquier dispositivo con acceso a internet a Internet, así como la información de inicio de sesión y contraseña.
 
+**Cómo protege y almacena información Cicuro?**
 
-**How Does Cicuro Protect and Store Information?**
+* Almacenamos y procesamos su información personal en nuestras computadoras, en nuestras instalaciones y en nuestros servidores, que pueden estar ubicados dentro o fuera de los EE. UU.
 
-* We store and process your personal information on our computers, in our facilities, and in our servers, which may be located inside or outside of the US.
+* Protegemos su información utilizando medidas de seguridad físicas, técnicas y administrativas para reducir los riesgos de pérdida, interceptación, uso indebido, acceso no autorizado, divulgación y alteración.
 
-* We protect your information using physical, technical, and administrative security measures to reduce the risks of loss, interception, misuse, unauthorized access, disclosure and alteration.
+* Algunas de las medidas de seguridad que utilizamos son los cortafuegos y el cifrado de datos, los controles de acceso físico a nuestros centros de datos y los controles de autorización de acceso a la información.
 
-* Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centers, and information access authorization controls.
+* Cumplimos con todas las leyes locales y nacionales con respecto al uso de la información, y expresamente prohibimos el uso de dicha información para cualquier conducta ilegal o inapropiada.
 
-* We abide by all local and national laws with regard to the use of information, and expressly prohibit use of said information for any illegal or otherwise inappropriate conduct.
+**¿Qué hay de las cookies?**
 
+* Las cookies son pequeños archivos de datos que podemos colocar y que pueden permanecer en su computadora o dispositivo accesible a través de Internet y nos permiten reconocerlo cuando regrese al sitio de Cicuroutilizando el mismo dispositivo y navegador.
 
+* Usamos cookies para: reconocerte; personaliza tu experiencia; ayudar a garantizar que la seguridad de su cuenta no se vea comprometida; mitigar el riesgo y prevenir el fraude; y promover la confianza y la seguridad para todos nuestros servicios.
 
-**What about Cookies?**
+* Podemos utilizar cookies de sesión, que caducan y ya no tienen ningún efecto cuando cierra la sesión de su cuenta o cierra su navegador.
 
-* Cookies are small files of data that we may place and which may remain on your computer or internet accessible device and allow us to recognize you when you return to the Cicuro site using the same device and browser.
+* Si lo prefiere, puede elegir que su computadora o dispositivo lo advierta cada vez que se coloca una cookie, o puede optar por desactivar todas las cookies a través de la configuración de su navegador. Como la mayoría de los sitios web, si deshabilita las cookies, es posible que parte del contenido no funcione correctamente. Sin embargo, aún puede usar Cicuro poniéndose en contacto con el Servicio al Cliente.
 
-* We use cookies to: recognize you; customize your experience; help ensure that your account security is not compromised; mitigate risk and prevent fraud; and promote trust and safety for all our services.
+**¿Cicuro comparte información con terceros?**
 
-* We may use session cookies, which expire and no longer have any effect when you log out of your account or close your browser.
+* De vez en cuando, podemos solicitar la ayuda de proveedores externos para que trabajen para nosotros o en nombre de nosotros. Se requiere que cualquier tercero se adhiera al mismo nivel de seguridad y control que Cicuro.
 
-* If you prefer, you can choose to have your computer or device warn you each time a cookie is being placed, or you can choose to disable all cookies via your browser settings. Like most websites, if you disable cookies, some content may not function properly. However, you can still use Cicuro by contacting Customer Service.
+* Para protegerlo de posibles fraudes, podemos verificar la información que nos proporciona con terceros. El proceso de verificación permite a Cicuro recopilar información específica sobre usted con el fin desalvaguardar su información personal y cualquier información relacionada con una transacción.
 
-**Does Cicuro Share Information with Third Parties?**
+* En particular, utilizaremos la autorización de la tarjeta de crédito / débito y los servicios de detección de fraude para verificar que la información y la dirección de su tarjeta coinciden con la información que usted proporcionó y que la tarjeta no se extravió ni fue robada.
 
-* We may, from time to time, enlist the aid of third party suppliers to work for or on behalf of us. Any third parties are required to adhere to the same level of security and control as Cicuro.
+* Cicuro solo divulgará información de identificación personal a terceros proveedores de servicios contratados por Cicuro , procesadores de tarjetas de crédito o autoridades bancarias, o si la ley nos obliga a hacerlo. Estos terceros no pueden usar su información para ningún fin secundario.
 
-* In order to protect you from potential fraud, we may verify the information you provide us with third parties. The verification process allows Cicuro to collect specific information about you in order to safeguard your personal information and any information related to a transaction.
+* Cicuro también puede divulgar información que consideremos de buena fe necesaria para investigar el fraude o la actividad ilegal, o para realizar investigaciones de violaciones de nuestros Términos de Servicio.
 
-* In particular, we will use credit/debit card authorization and fraud screening services to verify that your card information and address matches the information that you supplied and that the card has not been lost or stolen.
+**Márketing**
 
-* Cicuro will only disclose personally identifiable information to third party service providers engaged by Cicuro, credit card processors, or banking authorities, or if we are compelled to do so by law. These third parties are not allowed to use your information for any secondary purposes.
+* No vendemos ni alquilamos su información personal a terceros.
 
-* Cicuro may also disclose information that we in good faith believe is necessary to investigate fraud or illegal activity, or to conduct investigations of violations of our Terms of Service.
+* Podemos llamar, enviar mensajes de texto, correo postal o correo electrónico con información útil, actualizaciones u ofertas promocionales.
 
-**Marketing**
+* Podemos utilizar proveedores de terceros para comercializar con usted. Las etiquetas y las cookies de píxeles se pueden utilizar en mensajes digitales y en nuestro sitio web para ayudarnos a medir la efectividad, el uso del sitio y para permitirnos brindarle comunicaciones de marketing más enfocadas y posteriores.
 
-* We do not sell or rent your personal information to third parties.
+* Puede optar por no recibir nuestras comunicaciones de marketing en cualquier momento comunicándose con el Servicio al cliente al [support@cicuro.com](mailto:support@cicuro.com).
 
-* We may call, text, mail or email you with helpful information, updates or promotional offers.
+**Privacidad móvil**
 
-* We may use third party suppliers to market to you. Pixel tags and cookies may be used in digital messaging and on our website to help us measure effectiveness, site usage, and to enable us to provide more focused and subsequent marketing communications to you.
+* Podemos ofrecerle la posibilidad de conectarse con nuestros sitios, o utilizar nuestras aplicaciones, servicios y herramientas mediante un dispositivo móvil, ya sea a través de una aplicación móvil o a través de un sitio web optimizado para dispositivos móviles o no optimizado. Las disposiciones de esta Política de privacidad se aplican a todo el acceso y uso móvil de dispositivos móviles. Esta política de privacidad será referenciada por todas las aplicaciones móviles o sitios web optimizados para dispositivos móviles.
 
-* You can opt out of receiving marketing communications from us at any time by contacting Customer Service at [support@Cicuro.com](mailto:support@jpay.com).
+**Privacidad de los niños**
 
-**Mobile Privacy**
+* Cicuro , sus sitios relacionados, aplicaciones, servicios y herramientas son para audiencias generales y no están destinados a niños menores de 13 años. No recopilamos deliberadamente información personal de usuarios de este grupo de edad de ninguna fuente.
 
-* We may offer you the ability to connect with our sites, or use our applications, services, and tools using a mobile device, either through a mobile application or via a mobile optimized or non-optimized website. The provisions of this Privacy Policy apply to all such mobile access and use of mobile devices. This Privacy Policy will be referenced by all such mobile applications or mobile optimized websites.
+**De acuerdo con las leyes**
 
-**Children's Privacy**
+* Todos los usuarios con una cuenta pueden realizar cambios en su información personal y preferencias de contacto en cualquier momento iniciando sesión en su cuenta y dirigiéndose a la página "Mi cuenta".
 
-* Cicuro, its related sites, applications, services and tools are for general audiences and are not intended for children under the age of 13. We do not knowingly collect personal information from users in this age group from any source.
+* Aseguramos el cumplimiento de las reglamentaciones del gobierno de los EE. UU. Que implementan la Ley de cumplimiento ilegal de juegos de apuestas por Internet (UIGEA). UIGEA prohíbe a las empresas procesar transacciones restringidas. Una transacción restringida implica aceptar a sabiendas una transmisión de cualquier crédito, fondos, instrumento o ganancias en relación con la participación de otra persona en juegos de azar ilegales en Internet. En caso de que Cicuro recibe conocimiento de que un cliente está involucrado en juegos de azar ilegales en Internet, Cicuro cerrará la cuenta del cliente y cancelará todas las transacciones.
 
-**Compliance with Laws**
+**Enlaces externos**
 
-* All users with an account may make any changes to their personal information and contact preferences at any time by logging into their account and going to the ‘My Account’ page.
+* Cicuro , cualquier sitio relacionado, o sus aplicaciones móviles pueden contener enlaces a otros sitios y si decide seguir esos enlaces, Cicuro no será responsable de las prácticas de privacidad o el contenido de esos sitios web.
 
-* We ensure compliance with US Government regulations implementing the Unlawful Internet Gambling Enforcement Act (UIGEA). UIGEA prohibits businesses from processing restricted transactions. A restricted transaction involves knowingly accepting a transmittal of any credit, funds, instrument, or proceeds in connection with the participation of another person in unlawful internet gambling. In the event that Cicuro receives knowledge that a customer is engaged in illegal internet gambling, Cicuro will close the customer’s account and cancel all transactions.
+**Cambios a esta política de privacidad**
 
-**External Links**
+* Podemos modificar esta Política de privacidad en cualquier momento mediante la publicación de una versión revisada en nuestro (s) sitio (s) web y aplicaciones móviles. La versión revisada entrará en vigencia en el momento en que la publiquemos.
 
-* Cicuro, any related sites, or its mobile apps may contain links to other sites and if you decide to follow those links, Cicuro will not be responsible for the privacy practices or the content of those websites.
+**Sus opciones**
 
-**Changes to this Privacy Policy**
+Si ya no desea recibir nuestras comunicaciones de marketing, envíe un correo electrónico a Servicio al Cliente al   [support@Cicuro.com](mailto:support@jpay.com). Sin embargo, aún podemos contactarlo con respecto a cualquier asunto transaccional o legal.
 
-* We may amend this Privacy Policy at any time by posting a revised version on our website(s) and mobile apps. The revised version will be effective at the time we post it.
+Si ya no desea utilizar nuestros servicios, envíe un correo electrónico a nuestro Servicio al Cliente al   [support@Cicuro.com](mailto:support@jpay.com).
 
-**Your Options**
+Si tiene preguntas sobre esta Política de privacidad, las prácticas de información de Cicuro , los Términos del servicio o sus relaciones con Cicuro , escríbanos a:
 
-* If you no longer wish to receive marketing communications from us, email Customer Service at [support@Cicuro.com](mailto:support@jpay.com). However, we still may contact you regarding any transactional or legal matter.
-
-* If you no longer wish to use our services, email our Customer Service at [support@Cicuro.com.](mailto:support@jpay.com)
-
-* If you have questions about this Privacy Policy, Cicuro’s information practices, Terms of Service, or your dealings with Cicuro, write us at:
-
-Cicuro Inc. Attn: Legal Department 4920 Old Boonsboro RdLynchburg, VA 24503
+Cicuro Inc. 
+A la atención de: Departamento Legal  
+4920 Old Boonsboro Rd
+Lynchburg, VA 24503
 
