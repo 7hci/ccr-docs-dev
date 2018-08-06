@@ -86,9 +86,9 @@ Los tipos de información que recopilamos dependen de si se ha registrado para u
 
 **Sus opciones**
 
-Si ya no desea recibir nuestras comunicaciones de marketing, envíe un correo electrónico a Servicio al Cliente al   [support@Cicuro.com](mailto:support@jpay.com). Sin embargo, aún podemos contactarlo con respecto a cualquier asunto transaccional o legal.
+Si ya no desea recibir nuestras comunicaciones de marketing, envíe un correo electrónico a Servicio al Cliente al   [support@cicuro.com](mailto:support@cicuro.com). Sin embargo, aún podemos contactarlo con respecto a cualquier asunto transaccional o legal.
 
-Si ya no desea utilizar nuestros servicios, envíe un correo electrónico a nuestro Servicio al Cliente al   [support@Cicuro.com](mailto:support@jpay.com).
+Si ya no desea utilizar nuestros servicios, envíe un correo electrónico a nuestro Servicio al Cliente al   [support@cicuro.com](mailto:support@cicuro.com).
 
 Si tiene preguntas sobre esta Política de privacidad, las prácticas de información de Cicuro , los Términos del servicio o sus relaciones con Cicuro , escríbanos a:
 
