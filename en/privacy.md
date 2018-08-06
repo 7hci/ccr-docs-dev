@@ -66,7 +66,7 @@ The types of information we collect depend on whether you’ve registered for an
 
 * We may use third party suppliers to market to you. Pixel tags and cookies may be used in digital messaging and on our website to help us measure effectiveness, site usage, and to enable us to provide more focused and subsequent marketing communications to you.
 
-* You can opt out of receiving marketing communications from us at any time by contacting Customer Service at [support@Cicuro.com](mailto:support@jpay.com).
+* You can opt out of receiving marketing communications from us at any time by contacting Customer Service at [support@cicuro.com](mailto:support@cicuro.com).
 
 
 **Mobile Privacy**
@@ -93,7 +93,7 @@ The types of information we collect depend on whether you’ve registered for an
 
 **Your Options**
 
-* If you no longer wish to receive marketing communications from us, email Customer Service at [support@Cicuro.com](mailto:support@jpay.com). However, we still may contact you regarding any transactional or legal matter.
+* If you no longer wish to receive marketing communications from us, email Customer Service at [support@cicuro.com](mailto:support@cicuro.com). However, we still may contact you regarding any transactional or legal matter.
 
 * If you no longer wish to use our services, email our Customer Service at [support@Cicuro.com.](mailto:support@jpay.com)
 
