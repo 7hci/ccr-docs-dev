@@ -3,12 +3,12 @@
 La Política de privacidad de Cicuro prohíbe la divulgación de información del cliente o de la cuenta sin el permiso expreso del cliente o cuando así lo exija la ley o para cumplir con un proceso legal debidamente atendido en Cicuro .
 
 **1.  PRESENTACIÓN DE SUBPOENAS.** Todas las citaciones se deben dirigir a:
-
-Cicuro Inc. 
-Attn: Legal Department
-4920 Old Boonsboro Rd
-Lynchburg, VA 24503
-
+  
+Cicuro Inc.  
+Attn: Legal Department  
+4920 Old Boonsboro Rd  
+Lynchburg, VA 24503  
+  
 **2.   POLÍTICA DE SUBPOENA CRIMINAL.** Si busca la identidad o información de la cuenta de un cliente de Cicuro en relación con un asunto criminal, y usted es miembro de la comunidad de la aplicación de la ley, debe notificar a Cicuro con una citación válida.
 
 
